@@ -1,2 +1,2 @@
 
- <img src="./img.PNG" alt="img"/> 
+ <img src="./src/img.PNG" alt="img"/> 
